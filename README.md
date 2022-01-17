@@ -1,7 +1,7 @@
-# GBSP - Generalized Berry-Sethi Parser
-This repository contains the SW package for two Generalized Berry-Sethi Parsers:
+# Generalized Berry-Sethi Parser
+This repository contains two Generalized Berry-Sethi Parsers:
 
-1) a demo tool, written in HTML and Javascript (MGLR)
-2) a production tool, written in Java (GBSP)
+1) demo tool written in HTML and Javascript (GBSP-JS)
+2) production tool written in Java (GBSP)
 
-The repository is still UNDER CONSTRUCTION.
+Both SW tool are packaged in ZIP. See the READMe included.
